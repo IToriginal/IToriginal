@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### 🪪 Certificate
+SQL 개발자(SQLD)
+
+### 🏫 Experience
+카카오 클라우드 스쿨 개발자 양성 교육 과정 수료 (2022.11~2023.05)
+
 <!--
 **IToriginal/IToriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
